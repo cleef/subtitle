@@ -1,0 +1,4 @@
+*.webm
+*.txt
+
+__pycache__
